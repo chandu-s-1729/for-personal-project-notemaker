@@ -17,11 +17,11 @@ You need to build a `desktop web application` for `keeping notes`. You can draw 
 -   You are allowed to use jQuery if you wish. 
 -   For backend, You can use NodeJS or any other JS backend framework.
 
-# Bonus Points
+# Bonus Features
 -   Special View - Reminder [view all notes with an upcoming due date]
 -   Bonus point for submitting a video demo explaining the functionality of your app
 
-# Submission & Allocated Time
+# Completion 
 -   It’s a self paced assignment and no restrictions on usage of Google/ ChatGPT but you should own the code submitted for your final evaluation. Ideally, you should spend 6-8 hours for the assignment if you have worked in NodeJS (Authentication & CRUD operations) but if it takes more time, you are free to spend as much time needed to complete the assignment. 
 
 -   Please ensure to deploy your code on a public link for the reviewer to view your assignment.
